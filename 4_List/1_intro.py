@@ -11,5 +11,5 @@ print(marks[1])
 
 student = ["Vivek",19,75.9,"Bihar"]
 print(student)
-student[0]="Vivan"          # it can change element by index and it stores different types of elements together
+student[0]="Satyam"          # it can change element by index and it stores different types of elements together
 print(student)
